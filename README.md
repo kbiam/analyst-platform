@@ -76,7 +76,7 @@ Upload contracts, reports, or filings and extract structured insights, key terms
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/analyst-platform.git
+git clone https://github.com/kbiam/analyst-platform.git
 cd analyst-platform
 
 # Install frontend dependencies
